@@ -1,4 +1,4 @@
-# Spire Article Platform – Project README
+# Spire Article Platform
 
 **Live Preview:** [View Demo](https://thisislefa.github.io/Spire)
 

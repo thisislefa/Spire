@@ -1,12 +1,13 @@
-# Spire Article Platform
-
-**Live Preview:** [View Demo](https://thisislefa.github.io/Spire)
+# Spire 
 
 ---
 
 ## Overview
 
 Spire is a minimalist, content-focused article platform designed for optimal reading experience and visual hierarchy. This single-page article template demonstrates sophisticated typography, structured content organization, and responsive design principles for long-form technical content.
+<img width="1920" height="3630" alt="spire" src="https://github.com/user-attachments/assets/a6f0dcd9-9d97-481d-9bd6-1df1aae7a73d" />
+
+**Live Preview:** [View Demo](https://lefajmofokeng.github.io/Spire)
 
 ## Project Structure
 
@@ -186,7 +187,7 @@ The template includes:
 1. Create repository named "Spire"
 2. Upload index.html
 3. Enable GitHub Pages in repository settings
-4. Access via https://thisislefa.github.io/Spire
+4. Access via https://lefajmofokeng.github.io/Spire
 
 ### Custom Domain
 1. Add CNAME file with custom domain
